@@ -1,6 +1,6 @@
 # MRC(Machine Reading Comprehension) using book data
 
-Baseline and code for the 2nd AI competition task 'MRC using data using book data' implemented in the 'Dream School of 2022' project.
+Baseline and code for the 2nd AI competition task 'MRC using data using book data' implemented in the '2022 Dream School'
 
 ### Task Overview
 ![Image_MRC_0](https://user-images.githubusercontent.com/89120612/215271294-9c58515a-eb86-40ff-88f3-37ea8a995fe2.png)
